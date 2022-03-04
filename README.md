@@ -17,4 +17,7 @@ Which scientific methods did India employ for the case of measuring pollution?
            ![image](https://user-images.githubusercontent.com/100778968/156760390-86e2341f-1eea-4060-a755-fbd37ab18372.png)
    8. Injoint
            ![image](https://user-images.githubusercontent.com/100778968/156812488-c8a5617d-f72d-484c-a95d-b291bd7a7dc5.png)
+    9. Left Joint
+           ![image](https://user-images.githubusercontent.com/100778968/156815176-019723ab-4a05-4152-9e3c-6bc2cf8a10c5.png)
+
 
