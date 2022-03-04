@@ -12,3 +12,6 @@ Which scientific methods did India employ for the case of measuring pollution?
          Trendline: -![image](https://user-images.githubusercontent.com/100778968/156754920-bfa61f15-3fd1-4383-9390-4942f8e05acf.png)
  6. What is the most common type of crime in streets of Chicago?
           ![image](https://user-images.githubusercontent.com/100778968/156755845-0a7cd316-8797-4ceb-b2b4-d2350943e279.png)
+ 7.What is the average births when the mother's age is above and below 30?. Does they have relation?
+           ![image](https://user-images.githubusercontent.com/100778968/156760299-a5a23bee-dde5-4878-ab6e-b6a2c89a73d1.png)
+           ![image](https://user-images.githubusercontent.com/100778968/156760390-86e2341f-1eea-4060-a755-fbd37ab18372.png)
