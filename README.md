@@ -7,5 +7,5 @@ Which scientific methods did India employ for the case of measuring pollution?
 ![image](https://user-images.githubusercontent.com/100778968/156704610-744aed69-cf97-4a8f-bb3f-f1862153dac4.png)
 4. What is the trend of pollution  in globe  over the years?
 ![image](https://user-images.githubusercontent.com/100778968/156719312-2cadb9b6-2e55-4c8b-a917-18468f4f5b52.png)
-
+5. 5.What is the average pollution in  the globe during 2017?
 ![image](https://user-images.githubusercontent.com/100778968/156721255-b12987cc-41dc-40d9-a87b-093864c7a34e.png)
