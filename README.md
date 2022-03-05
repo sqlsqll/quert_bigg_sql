@@ -15,7 +15,7 @@ Which scientific methods did India employ for the case of measuring pollution?
  7.What is the average births when the mother's age is above and below 30?. Does they have relation?
            ![image](https://user-images.githubusercontent.com/100778968/156760299-a5a23bee-dde5-4878-ab6e-b6a2c89a73d1.png)
            ![image](https://user-images.githubusercontent.com/100778968/156760390-86e2341f-1eea-4060-a755-fbd37ab18372.png)
-   8. Injoint
+   8. Is there a relationship between father's race and congential abnormalities of child?
            ![image](https://user-images.githubusercontent.com/100778968/156812488-c8a5617d-f72d-484c-a95d-b291bd7a7dc5.png)
     9. Left Joint
            ![image](https://user-images.githubusercontent.com/100778968/156815176-019723ab-4a05-4152-9e3c-6bc2cf8a10c5.png)
