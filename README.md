@@ -18,6 +18,7 @@ Which scientific methods did India employ for the case of measuring pollution?
    8. Is there a relationship between father's race and congential abnormalities of child?
            ![image](https://user-images.githubusercontent.com/100778968/156812488-c8a5617d-f72d-484c-a95d-b291bd7a7dc5.png)
     9. Left Joint
-           ![image](https://user-images.githubusercontent.com/100778968/156815176-019723ab-4a05-4152-9e3c-6bc2cf8a10c5.png)
+       ![image](https://user-images.githubusercontent.com/100778968/156869948-76cae880-db44-4481-abf7-e9226b9a7536.png)
+
 
 
