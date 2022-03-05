@@ -21,5 +21,7 @@ Which scientific methods did India employ for the case of measuring pollution?
        ![image](https://user-images.githubusercontent.com/100778968/156869948-76cae880-db44-4481-abf7-e9226b9a7536.png)
   10.How is the diameter of the tree different among trees of different statuses?
        ![image](https://user-images.githubusercontent.com/100778968/156872918-727df3d4-c359-4ee4-8a06-cd83226b6c47.png)
-        Poor trees have more diameter whereas young trees have less diameter in the years
+        ![image](https://user-images.githubusercontent.com/100778968/156873109-8b59fcfa-c6bc-41be-93c1-9f866efe51ac.png)
+        We can see that old trees have comparatively high diameter
+
 
